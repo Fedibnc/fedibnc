@@ -1,16 +1,12 @@
-## Hi there 👋
+```0
+   Python  :  python 3.9.13
+Languages  :  Python, Js, Batch
+  Discord  :  1104133064990404678
+  Discord  :  @fedibnc.
+```
 
-<!--
-**Fedibnc/fedibnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```0
+#Gamberge
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://discord.gg/bnp" target="_blank"><img src="https://github.com/KamiHateOmg/README.md/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
